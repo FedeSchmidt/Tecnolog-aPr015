@@ -1,0 +1,7 @@
+Se implementaron el movimiento  de los enemigos y su efecto al colisionar con bomberman.
+La implementación de Sirius no es correcta. 
+En la gráfica, "S" es Sirius, "A" es Altair y "R" Rugulo.
+
+Se implementaron dos powerUp, SpeedUp (notado en la gráfica con "SU") y Masacrality ("MA").
+
+Se realiza mediante diagrama de secuencia el desarrollo de la colocación de la bomba y su explosión.
